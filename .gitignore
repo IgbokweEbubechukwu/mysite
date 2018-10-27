@@ -1,0 +1,4 @@
+--pycache--/
+myvenv
+*.dbsqlite3
+*.pyc
